@@ -23,6 +23,11 @@
         <option value="ADMIN &lt;vobuidunghue@gmail.com&gt;" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -46,29 +51,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;TestNG.C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites/FullRegressionSuite.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites/SmokeTestSuite.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites/suite.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTests.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.NegativeLoginTests.incorrectPasswordTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.NegativeLoginTests.incorrectUssernameTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.PositiveLoginTests.testLoginFunctionality.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites/FullRegressionSuite.xml.executor": "Run",
+    "TestNG.C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites/SmokeTestSuite.xml.executor": "Run",
+    "TestNG.C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites/suite.xml.executor": "Run",
+    "TestNG.LoginTests.executor": "Run",
+    "TestNG.NegativeLoginTests.incorrectPasswordTest.executor": "Run",
+    "TestNG.NegativeLoginTests.incorrectUssernameTest.executor": "Run",
+    "TestNG.PositiveLoginTests.testLoginFunctionality.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ADMIN\IdeaProjects\SeleniumForBeginners\src\test\resources\TestSuites" />
@@ -184,7 +189,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742563331734</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hue 17/3">
+      <option name="closed" value="true" />
+      <created>1742563563799</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742563563799</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hue 17/3">
+      <option name="closed" value="true" />
+      <created>1742563590509</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742563590509</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
