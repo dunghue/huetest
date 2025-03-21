@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34f60ed5-803c-4942-b53d-ae865c138f4a" name="Changes" comment="hue 17/3" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ADMIN &lt;vobuidunghue@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:dunghue/huetest.git",
+    "accountId": "842ba2cd-caa2-4a5a-9cc9-e8ecf10c2db3"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2u4QhX1u95XFOYK6arh3hRNJqGs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites/FullRegressionSuite.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites/SmokeTestSuite.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites/suite.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NegativeLoginTests.incorrectPasswordTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NegativeLoginTests.incorrectUssernameTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PositiveLoginTests.testLoginFunctionality.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\IdeaProjects\SeleniumForBeginners\src\test\resources\TestSuites" />
+      <recent name="C:\Users\ADMIN\IdeaProjects\SeleniumForBeginners\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites/FullRegressionSuite.xml">
+    <configuration name="C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites/FullRegressionSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumForBeginners" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestSuites/FullRegressionSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites/SmokeTestSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumForBeginners" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestSuites/SmokeTestSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites/suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumForBeginners" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestSuites/suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumForBeginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practicetestautomation.tests.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.practicetestautomation.tests.login" />
+      <option name="MAIN_CLASS_NAME" value="com.practicetestautomation.tests.login.LoginTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NegativeLoginTests.incorrectUssernameTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumForBeginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practicetestautomation.tests.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.practicetestautomation.tests.login" />
+      <option name="MAIN_CLASS_NAME" value="com.practicetestautomation.tests.login.NegativeLoginTests" />
+      <option name="METHOD_NAME" value="incorrectUssernameTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites/FullRegressionSuite.xml" />
+        <item itemvalue="TestNG.C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites/SmokeTestSuite.xml" />
+        <item itemvalue="TestNG.LoginTests" />
+        <item itemvalue="TestNG.C:/Users/ADMIN/IdeaProjects/SeleniumForBeginners/src/test/resources/TestSuites/suite.xml" />
+        <item itemvalue="TestNG.NegativeLoginTests.incorrectUssernameTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34f60ed5-803c-4942-b53d-ae865c138f4a" name="Changes" comment="" />
+      <created>1741505502523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741505502523</updated>
+    </task>
+    <task id="LOCAL-00001" summary="hue 17/3">
+      <option name="closed" value="true" />
+      <created>1742225743178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742225743178</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hue 17/3">
+      <option name="closed" value="true" />
+      <created>1742563315607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742563315607</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hue 17/3">
+      <option name="closed" value="true" />
+      <created>1742563331734</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742563331734</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="8c099c49-db5a-4e05-8cef-c5f030518d3f" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="8c099c49-db5a-4e05-8cef-c5f030518d3f">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hue 17/3" />
+    <option name="LAST_COMMIT_MESSAGE" value="hue 17/3" />
+  </component>
+</project>
